@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+*.pth
+*.pt
+*.pickle
+.idea
+*.iml
+*.pyc
+*.ipynb
+.ipynb_checkpoints
+.pytest_cache
+glue_data/*
+out/*
+venv/*
+
+
+!.gitignore
+
+.vscode
+*Shared
